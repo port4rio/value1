@@ -21,9 +21,9 @@
     "targetPrice": 2669,
     "minkabuRating": "割安",
     "firstDetectedDate": "2026-08-24",
-    "lastSeenDate": "2026-09-21",
-    "consecutiveDays": 37,
-    "totalAppearances": 37,
+    "lastSeenDate": "2026-09-22",
+    "consecutiveDays": 38,
+    "totalAppearances": 38,
     "status": "normal_active",
     "dividendTrend": "up",
     "consecutiveDividendHikeYears": 1,
@@ -191,6 +191,14 @@
       },
       {
         "date": "2026-09-21",
+        "price": 2224.0,
+        "dividendYield": 4.57,
+        "per": 2.4,
+        "pbr": 0.82,
+        "inScreener": true
+      },
+      {
+        "date": "2026-09-22",
         "price": 2224.0,
         "dividendYield": 4.57,
         "per": 2.4,
@@ -379,9 +387,9 @@
     "targetPrice": 2472,
     "minkabuRating": "割安",
     "firstDetectedDate": "2026-08-24",
-    "lastSeenDate": "2026-09-21",
-    "consecutiveDays": 37,
-    "totalAppearances": 37,
+    "lastSeenDate": "2026-09-22",
+    "consecutiveDays": 38,
+    "totalAppearances": 38,
     "status": "normal_active",
     "dividendTrend": "up",
     "consecutiveDividendHikeYears": 3,
@@ -554,6 +562,14 @@
         "per": 3.2,
         "pbr": 0.85,
         "inScreener": true
+      },
+      {
+        "date": "2026-09-22",
+        "price": 2060.0,
+        "dividendYield": 4.37,
+        "per": 3.2,
+        "pbr": 0.85,
+        "inScreener": true
       }
     ],
     "tags": [
@@ -584,9 +600,9 @@
     "targetPrice": 1188,
     "minkabuRating": "割安",
     "firstDetectedDate": "2026-08-24",
-    "lastSeenDate": "2026-09-21",
-    "consecutiveDays": 37,
-    "totalAppearances": 37,
+    "lastSeenDate": "2026-09-22",
+    "consecutiveDays": 38,
+    "totalAppearances": 38,
     "status": "normal_active",
     "dividendTrend": "stable",
     "consecutiveDividendHikeYears": 1,
@@ -759,6 +775,14 @@
         "per": 2.9,
         "pbr": 0.55,
         "inScreener": true
+      },
+      {
+        "date": "2026-09-22",
+        "price": 990.0,
+        "dividendYield": 4.04,
+        "per": 2.9,
+        "pbr": 0.55,
+        "inScreener": true
       }
     ],
     "tags": [
@@ -789,9 +813,9 @@
     "targetPrice": 1072,
     "minkabuRating": "割安",
     "firstDetectedDate": "2026-08-24",
-    "lastSeenDate": "2026-09-21",
-    "consecutiveDays": 37,
-    "totalAppearances": 37,
+    "lastSeenDate": "2026-09-22",
+    "consecutiveDays": 38,
+    "totalAppearances": 38,
     "status": "normal_active",
     "dividendTrend": "up",
     "consecutiveDividendHikeYears": 3,
@@ -964,6 +988,14 @@
         "per": 1.7,
         "pbr": 0.32,
         "inScreener": true
+      },
+      {
+        "date": "2026-09-22",
+        "price": 893.0,
+        "dividendYield": 5.6,
+        "per": 1.7,
+        "pbr": 0.32,
+        "inScreener": true
       }
     ],
     "tags": [
@@ -1075,9 +1107,9 @@
     "targetPrice": 556,
     "minkabuRating": "割安",
     "firstDetectedDate": "2026-08-24",
-    "lastSeenDate": "2026-09-21",
-    "consecutiveDays": 37,
-    "totalAppearances": 37,
+    "lastSeenDate": "2026-09-22",
+    "consecutiveDays": 38,
+    "totalAppearances": 38,
     "status": "normal_active",
     "dividendTrend": "up",
     "consecutiveDividendHikeYears": 1,
@@ -1250,6 +1282,14 @@
         "per": 4.5,
         "pbr": 0.58,
         "inScreener": true
+      },
+      {
+        "date": "2026-09-22",
+        "price": 463.0,
+        "dividendYield": 4.32,
+        "per": 4.5,
+        "pbr": 0.58,
+        "inScreener": true
       }
     ],
     "tags": [
@@ -1280,9 +1320,9 @@
     "targetPrice": 2934,
     "minkabuRating": "割安",
     "firstDetectedDate": "2026-08-24",
-    "lastSeenDate": "2026-09-21",
-    "consecutiveDays": 33,
-    "totalAppearances": 33,
+    "lastSeenDate": "2026-09-22",
+    "consecutiveDays": 34,
+    "totalAppearances": 34,
     "status": "normal_active",
     "dividendTrend": "up",
     "consecutiveDividendHikeYears": 3,
@@ -1447,6 +1487,14 @@
         "per": 7.1,
         "pbr": 0.92,
         "inScreener": true
+      },
+      {
+        "date": "2026-09-22",
+        "price": 2445.0,
+        "dividendYield": 4.09,
+        "per": 7.1,
+        "pbr": 0.92,
+        "inScreener": true
       }
     ],
     "tags": [
@@ -1477,9 +1525,9 @@
     "targetPrice": 4716,
     "minkabuRating": "割安",
     "firstDetectedDate": "2026-08-24",
-    "lastSeenDate": "2026-09-21",
-    "consecutiveDays": 37,
-    "totalAppearances": 37,
+    "lastSeenDate": "2026-09-22",
+    "consecutiveDays": 38,
+    "totalAppearances": 38,
     "status": "normal_active",
     "dividendTrend": "up",
     "consecutiveDividendHikeYears": 1,
@@ -1652,6 +1700,14 @@
         "per": 7.3,
         "pbr": 0.94,
         "inScreener": true
+      },
+      {
+        "date": "2026-09-22",
+        "price": 3930.0,
+        "dividendYield": 4.22,
+        "per": 7.3,
+        "pbr": 0.94,
+        "inScreener": true
       }
     ],
     "tags": [
@@ -1747,9 +1803,9 @@
     "targetPrice": 1244,
     "minkabuRating": "割安",
     "firstDetectedDate": "2026-08-24",
-    "lastSeenDate": "2026-09-21",
-    "consecutiveDays": 37,
-    "totalAppearances": 37,
+    "lastSeenDate": "2026-09-22",
+    "consecutiveDays": 38,
+    "totalAppearances": 38,
     "status": "normal_active",
     "dividendTrend": "up",
     "consecutiveDividendHikeYears": 3,
@@ -1917,6 +1973,14 @@
       },
       {
         "date": "2026-09-21",
+        "price": 1037.0,
+        "dividendYield": 4.82,
+        "per": 5.8,
+        "pbr": 0.74,
+        "inScreener": true
+      },
+      {
+        "date": "2026-09-22",
         "price": 1037.0,
         "dividendYield": 4.82,
         "per": 5.8,
@@ -2113,9 +2177,9 @@
     "targetPrice": 2502,
     "minkabuRating": "割安",
     "firstDetectedDate": "2026-08-24",
-    "lastSeenDate": "2026-09-21",
-    "consecutiveDays": 15,
-    "totalAppearances": 15,
+    "lastSeenDate": "2026-09-22",
+    "consecutiveDays": 16,
+    "totalAppearances": 16,
     "status": "rare_new",
     "dividendTrend": "up",
     "consecutiveDividendHikeYears": 3,
@@ -2187,6 +2251,14 @@
       },
       {
         "date": "2026-09-21",
+        "price": 2085.0,
+        "dividendYield": 4.8,
+        "per": 8.5,
+        "pbr": 1.0,
+        "inScreener": true
+      },
+      {
+        "date": "2026-09-22",
         "price": 2085.0,
         "dividendYield": 4.8,
         "per": 8.5,
@@ -2295,9 +2367,9 @@
     "targetPrice": 2472,
     "minkabuRating": "割安",
     "firstDetectedDate": "2026-08-24",
-    "lastSeenDate": "2026-09-21",
-    "consecutiveDays": 37,
-    "totalAppearances": 37,
+    "lastSeenDate": "2026-09-22",
+    "consecutiveDays": 38,
+    "totalAppearances": 38,
     "status": "normal_active",
     "dividendTrend": "stable",
     "consecutiveDividendHikeYears": 1,
@@ -2470,6 +2542,14 @@
         "per": 7.2,
         "pbr": 0.82,
         "inScreener": true
+      },
+      {
+        "date": "2026-09-22",
+        "price": 2060.0,
+        "dividendYield": 4.85,
+        "per": 7.2,
+        "pbr": 0.82,
+        "inScreener": true
       }
     ],
     "tags": [
@@ -2500,9 +2580,9 @@
     "targetPrice": 3960,
     "minkabuRating": "割安",
     "firstDetectedDate": "2026-08-24",
-    "lastSeenDate": "2026-09-21",
-    "consecutiveDays": 37,
-    "totalAppearances": 37,
+    "lastSeenDate": "2026-09-22",
+    "consecutiveDays": 38,
+    "totalAppearances": 38,
     "status": "normal_active",
     "dividendTrend": "up",
     "consecutiveDividendHikeYears": 3,
@@ -2675,6 +2755,14 @@
         "per": 8.3,
         "pbr": 0.89,
         "inScreener": true
+      },
+      {
+        "date": "2026-09-22",
+        "price": 3300.0,
+        "dividendYield": 5.76,
+        "per": 8.3,
+        "pbr": 0.89,
+        "inScreener": true
       }
     ],
     "tags": [
@@ -2705,9 +2793,9 @@
     "targetPrice": 937,
     "minkabuRating": "割安",
     "firstDetectedDate": "2026-08-24",
-    "lastSeenDate": "2026-09-21",
-    "consecutiveDays": 37,
-    "totalAppearances": 37,
+    "lastSeenDate": "2026-09-22",
+    "consecutiveDays": 38,
+    "totalAppearances": 38,
     "status": "normal_active",
     "dividendTrend": "up",
     "consecutiveDividendHikeYears": 3,
@@ -2880,6 +2968,14 @@
         "per": 7.9,
         "pbr": 0.85,
         "inScreener": true
+      },
+      {
+        "date": "2026-09-22",
+        "price": 781.0,
+        "dividendYield": 4.48,
+        "per": 7.9,
+        "pbr": 0.85,
+        "inScreener": true
       }
     ],
     "tags": [
@@ -2910,9 +3006,9 @@
     "targetPrice": 3240,
     "minkabuRating": "割安",
     "firstDetectedDate": "2026-09-07",
-    "lastSeenDate": "2026-09-21",
-    "consecutiveDays": 22,
-    "totalAppearances": 22,
+    "lastSeenDate": "2026-09-22",
+    "consecutiveDays": 23,
+    "totalAppearances": 23,
     "status": "normal_active",
     "dividendTrend": "up",
     "consecutiveDividendHikeYears": 1,
@@ -3005,6 +3101,14 @@
         "per": 7.3,
         "pbr": 0.79,
         "inScreener": true
+      },
+      {
+        "date": "2026-09-22",
+        "price": 2700.0,
+        "dividendYield": 4.07,
+        "per": 7.3,
+        "pbr": 0.79,
+        "inScreener": true
       }
     ],
     "tags": [
@@ -3035,9 +3139,9 @@
     "targetPrice": 1733,
     "minkabuRating": "割安",
     "firstDetectedDate": "2026-09-01",
-    "lastSeenDate": "2026-09-21",
-    "consecutiveDays": 29,
-    "totalAppearances": 29,
+    "lastSeenDate": "2026-09-22",
+    "consecutiveDays": 30,
+    "totalAppearances": 30,
     "status": "normal_active",
     "dividendTrend": "up",
     "consecutiveDividendHikeYears": 3,
@@ -3162,6 +3266,14 @@
         "per": 9.2,
         "pbr": 1.0,
         "inScreener": true
+      },
+      {
+        "date": "2026-09-22",
+        "price": 1444.0,
+        "dividendYield": 6.02,
+        "per": 9.2,
+        "pbr": 1.0,
+        "inScreener": true
       }
     ],
     "tags": [
@@ -3192,9 +3304,9 @@
     "targetPrice": 2572,
     "minkabuRating": "割安",
     "firstDetectedDate": "2026-08-24",
-    "lastSeenDate": "2026-09-21",
-    "consecutiveDays": 37,
-    "totalAppearances": 37,
+    "lastSeenDate": "2026-09-22",
+    "consecutiveDays": 38,
+    "totalAppearances": 38,
     "status": "normal_active",
     "dividendTrend": "stable",
     "consecutiveDividendHikeYears": 1,
@@ -3367,6 +3479,14 @@
         "per": 6.5,
         "pbr": 0.65,
         "inScreener": true
+      },
+      {
+        "date": "2026-09-22",
+        "price": 2143.0,
+        "dividendYield": 4.85,
+        "per": 6.5,
+        "pbr": 0.65,
+        "inScreener": true
       }
     ],
     "tags": [
@@ -3397,9 +3517,9 @@
     "targetPrice": 2851,
     "minkabuRating": "割安",
     "firstDetectedDate": "2026-08-24",
-    "lastSeenDate": "2026-09-21",
-    "consecutiveDays": 37,
-    "totalAppearances": 37,
+    "lastSeenDate": "2026-09-22",
+    "consecutiveDays": 38,
+    "totalAppearances": 38,
     "status": "normal_active",
     "dividendTrend": "stable",
     "consecutiveDividendHikeYears": 1,
@@ -3572,6 +3692,14 @@
         "per": 8.8,
         "pbr": 0.75,
         "inScreener": true
+      },
+      {
+        "date": "2026-09-22",
+        "price": 2376.0,
+        "dividendYield": 4.42,
+        "per": 8.8,
+        "pbr": 0.75,
+        "inScreener": true
       }
     ],
     "tags": [
@@ -3708,9 +3836,9 @@
     "targetPrice": 3498,
     "minkabuRating": "割安",
     "firstDetectedDate": "2026-09-09",
-    "lastSeenDate": "2026-09-21",
-    "consecutiveDays": 15,
-    "totalAppearances": 15,
+    "lastSeenDate": "2026-09-22",
+    "consecutiveDays": 16,
+    "totalAppearances": 16,
     "status": "rare_new",
     "dividendTrend": "up",
     "consecutiveDividendHikeYears": 3,
@@ -3782,6 +3910,14 @@
       },
       {
         "date": "2026-09-21",
+        "price": 2915.0,
+        "dividendYield": 4.12,
+        "per": 8.6,
+        "pbr": 0.87,
+        "inScreener": true
+      },
+      {
+        "date": "2026-09-22",
         "price": 2915.0,
         "dividendYield": 4.12,
         "per": 8.6,
@@ -4107,9 +4243,9 @@
     "targetPrice": 1312,
     "minkabuRating": "割安",
     "firstDetectedDate": "2026-08-24",
-    "lastSeenDate": "2026-09-21",
-    "consecutiveDays": 37,
-    "totalAppearances": 37,
+    "lastSeenDate": "2026-09-22",
+    "consecutiveDays": 38,
+    "totalAppearances": 38,
     "status": "normal_active",
     "dividendTrend": "stable",
     "consecutiveDividendHikeYears": 1,
@@ -4282,6 +4418,14 @@
         "per": 8.2,
         "pbr": 0.81,
         "inScreener": true
+      },
+      {
+        "date": "2026-09-22",
+        "price": 1093.0,
+        "dividendYield": 4.76,
+        "per": 8.2,
+        "pbr": 0.81,
+        "inScreener": true
       }
     ],
     "tags": [
@@ -4312,9 +4456,9 @@
     "targetPrice": 2177,
     "minkabuRating": "割安",
     "firstDetectedDate": "2026-08-24",
-    "lastSeenDate": "2026-09-21",
-    "consecutiveDays": 37,
-    "totalAppearances": 37,
+    "lastSeenDate": "2026-09-22",
+    "consecutiveDays": 38,
+    "totalAppearances": 38,
     "status": "normal_active",
     "dividendTrend": "up",
     "consecutiveDividendHikeYears": 1,
@@ -4487,6 +4631,14 @@
         "per": 7.3,
         "pbr": 0.72,
         "inScreener": true
+      },
+      {
+        "date": "2026-09-22",
+        "price": 1814.0,
+        "dividendYield": 4.13,
+        "per": 7.3,
+        "pbr": 0.72,
+        "inScreener": true
       }
     ],
     "tags": [
@@ -4517,9 +4669,9 @@
     "targetPrice": 2924,
     "minkabuRating": "割安",
     "firstDetectedDate": "2026-08-24",
-    "lastSeenDate": "2026-09-21",
-    "consecutiveDays": 37,
-    "totalAppearances": 37,
+    "lastSeenDate": "2026-09-22",
+    "consecutiveDays": 38,
+    "totalAppearances": 38,
     "status": "normal_active",
     "dividendTrend": "stable",
     "consecutiveDividendHikeYears": 1,
@@ -4692,6 +4844,14 @@
         "per": 7.4,
         "pbr": 0.72,
         "inScreener": true
+      },
+      {
+        "date": "2026-09-22",
+        "price": 2437.0,
+        "dividendYield": 4.1,
+        "per": 7.4,
+        "pbr": 0.72,
+        "inScreener": true
       }
     ],
     "tags": [
@@ -4779,9 +4939,9 @@
     "targetPrice": 5040,
     "minkabuRating": "割安",
     "firstDetectedDate": "2026-08-24",
-    "lastSeenDate": "2026-09-21",
-    "consecutiveDays": 37,
-    "totalAppearances": 37,
+    "lastSeenDate": "2026-09-22",
+    "consecutiveDays": 38,
+    "totalAppearances": 38,
     "status": "normal_active",
     "dividendTrend": "up",
     "consecutiveDividendHikeYears": 1,
@@ -4954,6 +5114,14 @@
         "per": 10.2,
         "pbr": 0.98,
         "inScreener": true
+      },
+      {
+        "date": "2026-09-22",
+        "price": 4200.0,
+        "dividendYield": 4.62,
+        "per": 10.2,
+        "pbr": 0.98,
+        "inScreener": true
       }
     ],
     "tags": [
@@ -4984,9 +5152,9 @@
     "targetPrice": 2297,
     "minkabuRating": "割安",
     "firstDetectedDate": "2026-08-24",
-    "lastSeenDate": "2026-09-21",
-    "consecutiveDays": 37,
-    "totalAppearances": 37,
+    "lastSeenDate": "2026-09-22",
+    "consecutiveDays": 38,
+    "totalAppearances": 38,
     "status": "normal_active",
     "dividendTrend": "stable",
     "consecutiveDividendHikeYears": 1,
@@ -5159,6 +5327,14 @@
         "per": 9.0,
         "pbr": 0.91,
         "inScreener": true
+      },
+      {
+        "date": "2026-09-22",
+        "price": 1914.0,
+        "dividendYield": 5.22,
+        "per": 9.0,
+        "pbr": 0.91,
+        "inScreener": true
       }
     ],
     "tags": [
@@ -5189,9 +5365,9 @@
     "targetPrice": 4158,
     "minkabuRating": "割安",
     "firstDetectedDate": "2026-08-24",
-    "lastSeenDate": "2026-09-21",
-    "consecutiveDays": 37,
-    "totalAppearances": 37,
+    "lastSeenDate": "2026-09-22",
+    "consecutiveDays": 38,
+    "totalAppearances": 38,
     "status": "normal_active",
     "dividendTrend": "stable",
     "consecutiveDividendHikeYears": 1,
@@ -5364,6 +5540,14 @@
         "per": 8.0,
         "pbr": 0.75,
         "inScreener": true
+      },
+      {
+        "date": "2026-09-22",
+        "price": 3465.0,
+        "dividendYield": 4.62,
+        "per": 8.0,
+        "pbr": 0.75,
+        "inScreener": true
       }
     ],
     "tags": [
@@ -5394,9 +5578,9 @@
     "targetPrice": 3235,
     "minkabuRating": "割安",
     "firstDetectedDate": "2026-08-24",
-    "lastSeenDate": "2026-09-21",
-    "consecutiveDays": 37,
-    "totalAppearances": 37,
+    "lastSeenDate": "2026-09-22",
+    "consecutiveDays": 38,
+    "totalAppearances": 38,
     "status": "normal_active",
     "dividendTrend": "stable",
     "consecutiveDividendHikeYears": 1,
@@ -5569,6 +5753,14 @@
         "per": 9.8,
         "pbr": 0.94,
         "inScreener": true
+      },
+      {
+        "date": "2026-09-22",
+        "price": 2696.0,
+        "dividendYield": 4.64,
+        "per": 9.8,
+        "pbr": 0.94,
+        "inScreener": true
       }
     ],
     "tags": [
@@ -5599,9 +5791,9 @@
     "targetPrice": 2962,
     "minkabuRating": "割安",
     "firstDetectedDate": "2026-08-24",
-    "lastSeenDate": "2026-09-21",
-    "consecutiveDays": 22,
-    "totalAppearances": 22,
+    "lastSeenDate": "2026-09-22",
+    "consecutiveDays": 23,
+    "totalAppearances": 23,
     "status": "normal_active",
     "dividendTrend": "stable",
     "consecutiveDividendHikeYears": 1,
@@ -5710,6 +5902,14 @@
         "per": 7.5,
         "pbr": 0.72,
         "inScreener": true
+      },
+      {
+        "date": "2026-09-22",
+        "price": 2468.0,
+        "dividendYield": 4.05,
+        "per": 7.5,
+        "pbr": 0.72,
+        "inScreener": true
       }
     ],
     "tags": [
@@ -5740,9 +5940,9 @@
     "targetPrice": 1574,
     "minkabuRating": "割安",
     "firstDetectedDate": "2026-08-24",
-    "lastSeenDate": "2026-09-21",
-    "consecutiveDays": 37,
-    "totalAppearances": 37,
+    "lastSeenDate": "2026-09-22",
+    "consecutiveDays": 38,
+    "totalAppearances": 38,
     "status": "normal_active",
     "dividendTrend": "up",
     "consecutiveDividendHikeYears": 3,
@@ -5915,6 +6115,14 @@
         "per": 9.7,
         "pbr": 0.93,
         "inScreener": true
+      },
+      {
+        "date": "2026-09-22",
+        "price": 1312.0,
+        "dividendYield": 5.26,
+        "per": 9.7,
+        "pbr": 0.93,
+        "inScreener": true
       }
     ],
     "tags": [
@@ -6002,9 +6210,9 @@
     "targetPrice": 2843,
     "minkabuRating": "割安",
     "firstDetectedDate": "2026-08-24",
-    "lastSeenDate": "2026-09-21",
-    "consecutiveDays": 37,
-    "totalAppearances": 37,
+    "lastSeenDate": "2026-09-22",
+    "consecutiveDays": 38,
+    "totalAppearances": 38,
     "status": "normal_active",
     "dividendTrend": "up",
     "consecutiveDividendHikeYears": 3,
@@ -6177,6 +6385,14 @@
         "per": 8.7,
         "pbr": 0.78,
         "inScreener": true
+      },
+      {
+        "date": "2026-09-22",
+        "price": 2369.0,
+        "dividendYield": 4.85,
+        "per": 8.7,
+        "pbr": 0.78,
+        "inScreener": true
       }
     ],
     "tags": [
@@ -6207,9 +6423,9 @@
     "targetPrice": 541,
     "minkabuRating": "割安",
     "firstDetectedDate": "2026-08-24",
-    "lastSeenDate": "2026-09-21",
-    "consecutiveDays": 37,
-    "totalAppearances": 37,
+    "lastSeenDate": "2026-09-22",
+    "consecutiveDays": 38,
+    "totalAppearances": 38,
     "status": "normal_active",
     "dividendTrend": "stable",
     "consecutiveDividendHikeYears": 1,
@@ -6382,6 +6598,14 @@
         "per": 7.1,
         "pbr": 0.63,
         "inScreener": true
+      },
+      {
+        "date": "2026-09-22",
+        "price": 451.0,
+        "dividendYield": 7.76,
+        "per": 7.1,
+        "pbr": 0.63,
+        "inScreener": true
       }
     ],
     "tags": [
@@ -6412,9 +6636,9 @@
     "targetPrice": 838,
     "minkabuRating": "割安",
     "firstDetectedDate": "2026-08-24",
-    "lastSeenDate": "2026-09-21",
-    "consecutiveDays": 37,
-    "totalAppearances": 37,
+    "lastSeenDate": "2026-09-22",
+    "consecutiveDays": 38,
+    "totalAppearances": 38,
     "status": "normal_active",
     "dividendTrend": "up",
     "consecutiveDividendHikeYears": 3,
@@ -6587,6 +6811,14 @@
         "per": 8.7,
         "pbr": 0.76,
         "inScreener": true
+      },
+      {
+        "date": "2026-09-22",
+        "price": 698.0,
+        "dividendYield": 4.87,
+        "per": 8.7,
+        "pbr": 0.76,
+        "inScreener": true
       }
     ],
     "tags": [
@@ -6682,9 +6914,9 @@
     "targetPrice": 8556,
     "minkabuRating": "割安",
     "firstDetectedDate": "2026-08-24",
-    "lastSeenDate": "2026-09-21",
-    "consecutiveDays": 37,
-    "totalAppearances": 37,
+    "lastSeenDate": "2026-09-22",
+    "consecutiveDays": 38,
+    "totalAppearances": 38,
     "status": "normal_active",
     "dividendTrend": "up",
     "consecutiveDividendHikeYears": 3,
@@ -6857,6 +7089,14 @@
         "per": 5.0,
         "pbr": 0.44,
         "inScreener": true
+      },
+      {
+        "date": "2026-09-22",
+        "price": 7130.0,
+        "dividendYield": 4.91,
+        "per": 5.0,
+        "pbr": 0.44,
+        "inScreener": true
       }
     ],
     "tags": [
@@ -6887,9 +7127,9 @@
     "targetPrice": 4644,
     "minkabuRating": "割安",
     "firstDetectedDate": "2026-09-04",
-    "lastSeenDate": "2026-09-21",
-    "consecutiveDays": 24,
-    "totalAppearances": 24,
+    "lastSeenDate": "2026-09-22",
+    "consecutiveDays": 25,
+    "totalAppearances": 25,
     "status": "normal_active",
     "dividendTrend": "stable",
     "consecutiveDividendHikeYears": 1,
@@ -6990,6 +7230,14 @@
         "per": 11.4,
         "pbr": 0.98,
         "inScreener": true
+      },
+      {
+        "date": "2026-09-22",
+        "price": 3870.0,
+        "dividendYield": 4.13,
+        "per": 11.4,
+        "pbr": 0.98,
+        "inScreener": true
       }
     ],
     "tags": [
@@ -7020,9 +7268,9 @@
     "targetPrice": 4956,
     "minkabuRating": "割安",
     "firstDetectedDate": "2026-08-24",
-    "lastSeenDate": "2026-09-21",
-    "consecutiveDays": 37,
-    "totalAppearances": 37,
+    "lastSeenDate": "2026-09-22",
+    "consecutiveDays": 38,
+    "totalAppearances": 38,
     "status": "normal_active",
     "dividendTrend": "up",
     "consecutiveDividendHikeYears": 3,
@@ -7195,6 +7443,14 @@
         "per": 10.1,
         "pbr": 0.86,
         "inScreener": true
+      },
+      {
+        "date": "2026-09-22",
+        "price": 4130.0,
+        "dividendYield": 4.58,
+        "per": 10.1,
+        "pbr": 0.86,
+        "inScreener": true
       }
     ],
     "tags": [
@@ -7225,9 +7481,9 @@
     "targetPrice": 3870,
     "minkabuRating": "割安",
     "firstDetectedDate": "2026-08-24",
-    "lastSeenDate": "2026-09-21",
-    "consecutiveDays": 26,
-    "totalAppearances": 26,
+    "lastSeenDate": "2026-09-22",
+    "consecutiveDays": 27,
+    "totalAppearances": 27,
     "status": "normal_active",
     "dividendTrend": "up",
     "consecutiveDividendHikeYears": 3,
@@ -7360,6 +7616,14 @@
         "per": 10.4,
         "pbr": 0.89,
         "inScreener": true
+      },
+      {
+        "date": "2026-09-22",
+        "price": 3225.0,
+        "dividendYield": 4.03,
+        "per": 10.4,
+        "pbr": 0.89,
+        "inScreener": true
       }
     ],
     "tags": [
@@ -7390,9 +7654,9 @@
     "targetPrice": 4764,
     "minkabuRating": "割安",
     "firstDetectedDate": "2026-08-24",
-    "lastSeenDate": "2026-09-21",
-    "consecutiveDays": 37,
-    "totalAppearances": 37,
+    "lastSeenDate": "2026-09-22",
+    "consecutiveDays": 38,
+    "totalAppearances": 38,
     "status": "normal_active",
     "dividendTrend": "stable",
     "consecutiveDividendHikeYears": 1,
@@ -7565,6 +7829,14 @@
         "per": 7.7,
         "pbr": 0.65,
         "inScreener": true
+      },
+      {
+        "date": "2026-09-22",
+        "price": 3970.0,
+        "dividendYield": 5.29,
+        "per": 7.7,
+        "pbr": 0.65,
+        "inScreener": true
       }
     ],
     "tags": [
@@ -7595,9 +7867,9 @@
     "targetPrice": 2861,
     "minkabuRating": "割安",
     "firstDetectedDate": "2026-08-24",
-    "lastSeenDate": "2026-09-21",
-    "consecutiveDays": 30,
-    "totalAppearances": 30,
+    "lastSeenDate": "2026-09-22",
+    "consecutiveDays": 31,
+    "totalAppearances": 31,
     "status": "normal_active",
     "dividendTrend": "up",
     "consecutiveDividendHikeYears": 3,
@@ -7730,6 +8002,14 @@
         "per": 8.1,
         "pbr": 0.63,
         "inScreener": true
+      },
+      {
+        "date": "2026-09-22",
+        "price": 2384.0,
+        "dividendYield": 4.19,
+        "per": 8.1,
+        "pbr": 0.63,
+        "inScreener": true
       }
     ],
     "tags": [
@@ -7760,9 +8040,9 @@
     "targetPrice": 2383,
     "minkabuRating": "割安",
     "firstDetectedDate": "2026-09-07",
-    "lastSeenDate": "2026-09-21",
-    "consecutiveDays": 22,
-    "totalAppearances": 22,
+    "lastSeenDate": "2026-09-22",
+    "consecutiveDays": 23,
+    "totalAppearances": 23,
     "status": "normal_active",
     "dividendTrend": "stable",
     "consecutiveDividendHikeYears": 1,
@@ -7855,6 +8135,14 @@
         "per": 8.4,
         "pbr": 0.69,
         "inScreener": true
+      },
+      {
+        "date": "2026-09-22",
+        "price": 1985.5,
+        "dividendYield": 4.23,
+        "per": 8.4,
+        "pbr": 0.69,
+        "inScreener": true
       }
     ],
     "tags": [
@@ -7885,9 +8173,9 @@
     "targetPrice": 1456,
     "minkabuRating": "割安",
     "firstDetectedDate": "2026-08-24",
-    "lastSeenDate": "2026-09-21",
-    "consecutiveDays": 37,
-    "totalAppearances": 37,
+    "lastSeenDate": "2026-09-22",
+    "consecutiveDays": 38,
+    "totalAppearances": 38,
     "status": "normal_active",
     "dividendTrend": "stable",
     "consecutiveDividendHikeYears": 1,
@@ -8055,6 +8343,14 @@
       },
       {
         "date": "2026-09-21",
+        "price": 1213.0,
+        "dividendYield": 4.7,
+        "per": 11.0,
+        "pbr": 0.93,
+        "inScreener": true
+      },
+      {
+        "date": "2026-09-22",
         "price": 1213.0,
         "dividendYield": 4.7,
         "per": 11.0,
@@ -8243,9 +8539,9 @@
     "targetPrice": 2774,
     "minkabuRating": "割安",
     "firstDetectedDate": "2026-08-24",
-    "lastSeenDate": "2026-09-21",
-    "consecutiveDays": 37,
-    "totalAppearances": 37,
+    "lastSeenDate": "2026-09-22",
+    "consecutiveDays": 38,
+    "totalAppearances": 38,
     "status": "normal_active",
     "dividendTrend": "up",
     "consecutiveDividendHikeYears": 3,
@@ -8418,6 +8714,14 @@
         "per": 9.3,
         "pbr": 0.79,
         "inScreener": true
+      },
+      {
+        "date": "2026-09-22",
+        "price": 2312.0,
+        "dividendYield": 6.06,
+        "per": 9.3,
+        "pbr": 0.79,
+        "inScreener": true
       }
     ],
     "tags": [
@@ -8448,9 +8752,9 @@
     "targetPrice": 1477,
     "minkabuRating": "割安",
     "firstDetectedDate": "2026-08-24",
-    "lastSeenDate": "2026-09-21",
-    "consecutiveDays": 37,
-    "totalAppearances": 37,
+    "lastSeenDate": "2026-09-22",
+    "consecutiveDays": 38,
+    "totalAppearances": 38,
     "status": "normal_active",
     "dividendTrend": "up",
     "consecutiveDividendHikeYears": 3,
@@ -8623,6 +8927,14 @@
         "per": 7.0,
         "pbr": 0.55,
         "inScreener": true
+      },
+      {
+        "date": "2026-09-22",
+        "price": 1231.0,
+        "dividendYield": 4.71,
+        "per": 7.0,
+        "pbr": 0.55,
+        "inScreener": true
       }
     ],
     "tags": [
@@ -8653,9 +8965,9 @@
     "targetPrice": 3200,
     "minkabuRating": "割安",
     "firstDetectedDate": "2026-08-24",
-    "lastSeenDate": "2026-09-21",
-    "consecutiveDays": 37,
-    "totalAppearances": 37,
+    "lastSeenDate": "2026-09-22",
+    "consecutiveDays": 38,
+    "totalAppearances": 38,
     "status": "normal_active",
     "dividendTrend": "stable",
     "consecutiveDividendHikeYears": 1,
@@ -8828,6 +9140,14 @@
         "per": 9.0,
         "pbr": 0.75,
         "inScreener": true
+      },
+      {
+        "date": "2026-09-22",
+        "price": 2667.0,
+        "dividendYield": 5.06,
+        "per": 9.0,
+        "pbr": 0.75,
+        "inScreener": true
       }
     ],
     "tags": [
@@ -8858,9 +9178,9 @@
     "targetPrice": 360,
     "minkabuRating": "割安",
     "firstDetectedDate": "2026-08-24",
-    "lastSeenDate": "2026-09-21",
-    "consecutiveDays": 37,
-    "totalAppearances": 37,
+    "lastSeenDate": "2026-09-22",
+    "consecutiveDays": 38,
+    "totalAppearances": 38,
     "status": "normal_active",
     "dividendTrend": "stable",
     "consecutiveDividendHikeYears": 1,
@@ -9028,6 +9348,14 @@
       },
       {
         "date": "2026-09-21",
+        "price": 300.0,
+        "dividendYield": 5.0,
+        "per": 10.7,
+        "pbr": 0.83,
+        "inScreener": true
+      },
+      {
+        "date": "2026-09-22",
         "price": 300.0,
         "dividendYield": 5.0,
         "per": 10.7,
@@ -9201,9 +9529,9 @@
     "targetPrice": 1760,
     "minkabuRating": "割安",
     "firstDetectedDate": "2026-08-24",
-    "lastSeenDate": "2026-09-21",
-    "consecutiveDays": 37,
-    "totalAppearances": 37,
+    "lastSeenDate": "2026-09-22",
+    "consecutiveDays": 38,
+    "totalAppearances": 38,
     "status": "normal_active",
     "dividendTrend": "stable",
     "consecutiveDividendHikeYears": 1,
@@ -9376,6 +9704,14 @@
         "per": 9.2,
         "pbr": 0.73,
         "inScreener": true
+      },
+      {
+        "date": "2026-09-22",
+        "price": 1467.0,
+        "dividendYield": 5.32,
+        "per": 9.2,
+        "pbr": 0.73,
+        "inScreener": true
       }
     ],
     "tags": [
@@ -9406,9 +9742,9 @@
     "targetPrice": 1908,
     "minkabuRating": "割安",
     "firstDetectedDate": "2026-08-24",
-    "lastSeenDate": "2026-09-21",
-    "consecutiveDays": 37,
-    "totalAppearances": 37,
+    "lastSeenDate": "2026-09-22",
+    "consecutiveDays": 38,
+    "totalAppearances": 38,
     "status": "normal_active",
     "dividendTrend": "up",
     "consecutiveDividendHikeYears": 3,
@@ -9581,6 +9917,14 @@
         "per": 7.8,
         "pbr": 0.62,
         "inScreener": true
+      },
+      {
+        "date": "2026-09-22",
+        "price": 1590.0,
+        "dividendYield": 4.09,
+        "per": 7.8,
+        "pbr": 0.62,
+        "inScreener": true
       }
     ],
     "tags": [
@@ -9611,9 +9955,9 @@
     "targetPrice": 983,
     "minkabuRating": "割安",
     "firstDetectedDate": "2026-09-08",
-    "lastSeenDate": "2026-09-21",
-    "consecutiveDays": 20,
-    "totalAppearances": 20,
+    "lastSeenDate": "2026-09-22",
+    "consecutiveDays": 21,
+    "totalAppearances": 21,
     "status": "rare_new",
     "dividendTrend": "up",
     "consecutiveDividendHikeYears": 3,
@@ -9698,6 +10042,14 @@
         "per": 12.0,
         "pbr": 0.98,
         "inScreener": true
+      },
+      {
+        "date": "2026-09-22",
+        "price": 819.0,
+        "dividendYield": 4.4,
+        "per": 12.0,
+        "pbr": 0.98,
+        "inScreener": true
       }
     ],
     "tags": [
@@ -9728,9 +10080,9 @@
     "targetPrice": 3590,
     "minkabuRating": "割安",
     "firstDetectedDate": "2026-08-24",
-    "lastSeenDate": "2026-09-21",
-    "consecutiveDays": 37,
-    "totalAppearances": 37,
+    "lastSeenDate": "2026-09-22",
+    "consecutiveDays": 38,
+    "totalAppearances": 38,
     "status": "normal_active",
     "dividendTrend": "stable",
     "consecutiveDividendHikeYears": 1,
@@ -9903,6 +10255,14 @@
         "per": 9.8,
         "pbr": 0.75,
         "inScreener": true
+      },
+      {
+        "date": "2026-09-22",
+        "price": 2991.5,
+        "dividendYield": 4.35,
+        "per": 9.8,
+        "pbr": 0.75,
+        "inScreener": true
       }
     ],
     "tags": [
@@ -9933,9 +10293,9 @@
     "targetPrice": 1264,
     "minkabuRating": "割安",
     "firstDetectedDate": "2026-08-24",
-    "lastSeenDate": "2026-09-21",
-    "consecutiveDays": 37,
-    "totalAppearances": 37,
+    "lastSeenDate": "2026-09-22",
+    "consecutiveDays": 38,
+    "totalAppearances": 38,
     "status": "normal_active",
     "dividendTrend": "stable",
     "consecutiveDividendHikeYears": 1,
@@ -10108,6 +10468,14 @@
         "per": 10.3,
         "pbr": 0.83,
         "inScreener": true
+      },
+      {
+        "date": "2026-09-22",
+        "price": 1053.0,
+        "dividendYield": 5.7,
+        "per": 10.3,
+        "pbr": 0.83,
+        "inScreener": true
       }
     ],
     "tags": [
@@ -10138,9 +10506,9 @@
     "targetPrice": 2094,
     "minkabuRating": "割安",
     "firstDetectedDate": "2026-08-24",
-    "lastSeenDate": "2026-09-21",
-    "consecutiveDays": 37,
-    "totalAppearances": 37,
+    "lastSeenDate": "2026-09-22",
+    "consecutiveDays": 38,
+    "totalAppearances": 38,
     "status": "normal_active",
     "dividendTrend": "up",
     "consecutiveDividendHikeYears": 1,
@@ -10308,6 +10676,14 @@
       },
       {
         "date": "2026-09-21",
+        "price": 1745.0,
+        "dividendYield": 5.16,
+        "per": 11.7,
+        "pbr": 0.93,
+        "inScreener": true
+      },
+      {
+        "date": "2026-09-22",
         "price": 1745.0,
         "dividendYield": 5.16,
         "per": 11.7,
