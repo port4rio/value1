@@ -1688,18 +1688,18 @@
   },
   {
     "date": "2026-09-29",
-    "totalCount": 65,
+    "totalCount": 64,
     "chronicCount": 0,
     "rareNewCount": 20,
-    "normalCount": 45,
+    "normalCount": 44,
     "graduatedCount": 0,
-    "avgYield": 6.35,
+    "avgYield": 6.39,
     "avgPer": 6.6,
     "avgPbr": 0.69,
     "topYieldStock": {
       "code": "9065",
       "name": "山九",
-      "yield": 14.96
+      "yield": 15.06
     },
     "stockCodes": [
       "6675",
@@ -1708,7 +1708,6 @@
       "5351",
       "5334",
       "6368",
-      "7463",
       "9193",
       "1965",
       "1926",
