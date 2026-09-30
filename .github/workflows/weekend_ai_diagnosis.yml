@@ -4,7 +4,7 @@ on:
   schedule:
     # 毎週土曜日 日本時間 09:07 (UTC 00:07) に実行
     # 平日の決算短信要約で消費したGemini無料枠が空いている週末朝に一括診断
-    - cron: '7 0 * * 6'
+    #- cron: '7 0 * * 6'
   workflow_dispatch: # 手動実行トリガー（直近診断済み銘柄は自動スキップ）
 
 permissions:
